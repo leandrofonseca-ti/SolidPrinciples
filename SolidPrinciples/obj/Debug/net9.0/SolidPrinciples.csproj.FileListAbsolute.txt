@@ -1,0 +1,11 @@
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\bin\Debug\net9.0\SolidPrinciples.deps.json
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\bin\Debug\net9.0\SolidPrinciples.dll
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\bin\Debug\net9.0\SolidPrinciples.pdb
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\obj\Debug\net9.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\obj\Debug\net9.0\SolidPrinciples.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\obj\Debug\net9.0\SolidPrinciples.AssemblyInfo.cs
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\obj\Debug\net9.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\obj\Debug\net9.0\SolidPrinciples.dll
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\obj\Debug\net9.0\refint\SolidPrinciples.dll
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\obj\Debug\net9.0\SolidPrinciples.pdb
+C:\Projetos\GitHub\FonsecaDigital\SolidPrinciples\SolidPrinciples\obj\Debug\net9.0\ref\SolidPrinciples.dll

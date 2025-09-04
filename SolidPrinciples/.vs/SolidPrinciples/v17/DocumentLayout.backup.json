@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\SolidPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCD44E-502C-41D7-A3A7-A4DFB2000ECA}|..\\DIP_Test\\DIP_Test.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\dip_test\\notificationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBDF78F-4F04-4571-82E2-840B15289060}|..\\DIP\\DIP.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\dip\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBDF78F-4F04-4571-82E2-840B15289060}|..\\DIP\\DIP.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\dip\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E47DD3-BDAC-459B-B20F-94CEB8BE22E9}|..\\ISP_Test\\ISP_Test.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\isp_test\\printertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B50768-DAEA-4D49-A87E-C1E733B636DE}|..\\ISP\\ISP.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\isp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1F0028-7A4B-43EE-BFEF-E00900A26479}|..\\LSP_Test\\LSP_Test.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\lsp_test\\birdtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC542C-3FF3-4948-825D-2201F14082FD}|..\\LSP\\LSP.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\lsp\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563C2C1A-54CC-4D99-87D0-51B22D3E5FD5}|..\\OCP_Test\\OCP_Test.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\ocp_test\\shapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9918FE-482E-473F-A0D3-E632F4EC3C9A}|..\\OCP\\OCP.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\ocp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FAD180-55CA-44E9-B9D5-1639308B4EC5}|..\\SRP\\SRP.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\srp\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FAD180-55CA-44E9-B9D5-1639308B4EC5}|..\\SRP\\SRP.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\srp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF02668D-EFFB-4D93-9096-5E25822CE2A7}|..\\SRP_Test\\SRP_Test.csproj|c:\\projetos\\github\\fonsecadigital\\solidprinciples\\srp_test\\userrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\DIP_Test\\NotificationServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\DIP_Test\\NotificationServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\DIP_Test\\NotificationServiceTests.cs",
+              "RelativeToolTip": "..\\DIP_Test\\NotificationServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:22:39.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\DIP\\NotificationService.cs",
+              "RelativeDocumentMoniker": "..\\DIP\\NotificationService.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\DIP\\NotificationService.cs",
+              "RelativeToolTip": "..\\DIP\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:22:15.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\DIP\\Interfaces.cs",
+              "RelativeDocumentMoniker": "..\\DIP\\Interfaces.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\DIP\\Interfaces.cs",
+              "RelativeToolTip": "..\\DIP\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:21:38.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrinterTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\ISP_Test\\PrinterTests.cs",
+              "RelativeDocumentMoniker": "..\\ISP_Test\\PrinterTests.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\ISP_Test\\PrinterTests.cs",
+              "RelativeToolTip": "..\\ISP_Test\\PrinterTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:20:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\ISP\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ISP\\Class1.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\ISP\\Class1.cs",
+              "RelativeToolTip": "..\\ISP\\Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:20:17.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BirdTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\LSP_Test\\BirdTests.cs",
+              "RelativeDocumentMoniker": "..\\LSP_Test\\BirdTests.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\LSP_Test\\BirdTests.cs",
+              "RelativeToolTip": "..\\LSP_Test\\BirdTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:16:57.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\LSP\\Bird.cs",
+              "RelativeDocumentMoniker": "..\\LSP\\Bird.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\LSP\\Bird.cs",
+              "RelativeToolTip": "..\\LSP\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:16:34.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShapeTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\OCP_Test\\ShapeTests.cs",
+              "RelativeDocumentMoniker": "..\\OCP_Test\\ShapeTests.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\OCP_Test\\ShapeTests.cs",
+              "RelativeToolTip": "..\\OCP_Test\\ShapeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:15:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\OCP\\Shape.cs",
+              "RelativeDocumentMoniker": "..\\OCP\\Shape.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\OCP\\Shape.cs",
+              "RelativeToolTip": "..\\OCP\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:14:15.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\SRP_Test\\UserRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\SRP_Test\\UserRepositoryTests.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\SRP_Test\\UserRepositoryTests.cs",
+              "RelativeToolTip": "..\\SRP_Test\\UserRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:12:50.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\SRP\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\SRP\\UserRepository.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\SRP\\UserRepository.cs",
+              "RelativeToolTip": "..\\SRP\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:12:14.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\SRP\\User.cs",
+              "RelativeDocumentMoniker": "..\\SRP\\User.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\FonsecaDigital\\SolidPrinciples\\SRP\\User.cs",
+              "RelativeToolTip": "..\\SRP\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:10:57.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
